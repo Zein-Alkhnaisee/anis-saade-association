@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/anis-saade-association/static/css/main.8c5ae7b2.css",
+    "main.js": "/anis-saade-association/static/js/main.d12b94ff.js",
+    "static/js/453.f18d65e5.chunk.js": "/anis-saade-association/static/js/453.f18d65e5.chunk.js",
+    "static/media/hero.jpg.webp": "/anis-saade-association/static/media/hero.jpg.45234b0f82db7262754f.webp",
+    "static/media/bootstrap-icons.woff?": "/anis-saade-association/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/anis-saade-association/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/anis-saade-association/index.html",
+    "main.8c5ae7b2.css.map": "/anis-saade-association/static/css/main.8c5ae7b2.css.map",
+    "main.d12b94ff.js.map": "/anis-saade-association/static/js/main.d12b94ff.js.map",
+    "453.f18d65e5.chunk.js.map": "/anis-saade-association/static/js/453.f18d65e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c5ae7b2.css",
+    "static/js/main.d12b94ff.js"
+  ]
+}
